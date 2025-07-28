@@ -1,0 +1,7 @@
+streamlit
+transformers==4.54.0
+torch
+pdfplumber
+sentence-transformers
+peft==0.16.0
+datasets
